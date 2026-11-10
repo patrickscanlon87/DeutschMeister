@@ -1,0 +1,14 @@
+An app to help me learn German. The app should:
+
+Support accounts that can seamlessly switch between web and app (Android and iphone). Users should be able to do a lesson on the app one day and on a browser the next day and the system should remember what they did. The look and feel should also be similar between the two
+Be easy to develop with minimal technical expertise. This will be a solo project for me, and I am moderately technically proficient, but cannot code.
+The key feature will be a chat feature.
+Users should be able to
+  Select and tune the "personality" of the app
+  select one of several dynamic topical topics
+  define their own topic
+  Input their answers as either text or speech (in German)
+The system should
+  Converse back in the user's selected personality (in German)
+  Allow users to easily translate any German text they don't understand - e.g. by tapping or hovering over it.
+  Offer feedback on any errors the user makes, including explaining the grammatical rules that they have broken, why their answer was incorrect, and how to correct it.
